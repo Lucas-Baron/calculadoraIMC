@@ -67,6 +67,7 @@ form input{
     font-size: 16px;
 
     outline: none;
+    text-align: center;
 }
 
 input[type=number]::-webkit-inner-spin-button { 
