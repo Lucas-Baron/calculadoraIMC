@@ -1,4 +1,4 @@
-<h2>Projeto calculadora IMC</h2>
+<h1>Projeto calculadora IMC</h1>
 
 <h4> É uma calculadora que tem como objetivo informar ao usuário sua classificação do índice de massa coporal (IMC). </h4>
 </br>
